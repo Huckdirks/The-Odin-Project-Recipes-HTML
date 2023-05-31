@@ -3,3 +3,8 @@
     color: black;
     background-color: rgb(137, 0, 0);
 }
+
+img {
+    height: 400;
+    width: auto;
+}
